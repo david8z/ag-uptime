@@ -17,6 +17,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /ag-uptime
   name: Ángel Alarcón Uptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   introTitle: "Uptime checks for [**Ángel Alarcón**](https://www.angelalarcon.com/es/)"
   navbar:
     - title: Status
