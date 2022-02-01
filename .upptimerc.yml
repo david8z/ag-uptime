@@ -16,14 +16,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /ag-uptime
-  logoUrl: https://www.angelalarcon.com/img/b2c-logo-15736431441.jpg
   name: Ángel Alarcón Uptime
   introTitle: "Uptime checks for [**Ángel Alarcón**](https://www.angelalarcon.com/es/)"
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
