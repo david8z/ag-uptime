@@ -21,7 +21,7 @@ status-website:
   introTitle: "Uptime checks for [**Ángel Alarcón**](https://www.angelalarcon.com/es/)"
   navbar:
     - title: Status
-      href: /
+      href: /ag-uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
