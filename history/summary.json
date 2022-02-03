@@ -4,35 +4,39 @@
     "url": "https://www.angelalarcon.com/es/",
     "icon": "https://favicons.githubusercontent.com/www.angelalarcon.com",
     "slug": "angel-alarcon-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1422,
-    "timeDay": 1712,
-    "timeWeek": 1422,
-    "timeMonth": 1422,
-    "timeYear": 1422,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1395,
+    "timeDay": 1149,
+    "timeWeek": 1395,
+    "timeMonth": 1395,
+    "timeYear": 1395,
+    "dailyMinutesDown": {
+      "2022-02-03": 1
+    }
   },
   {
     "name": "Ángel Alarcón Blog",
     "url": "https://www.angelalarcon.com/marca/",
     "icon": "https://favicons.githubusercontent.com/www.angelalarcon.com",
     "slug": "angel-alarcon-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2011,
-    "timeDay": 2286,
-    "timeWeek": 2011,
-    "timeMonth": 2011,
-    "timeYear": 2011,
-    "dailyMinutesDown": {}
+    "time": 2021,
+    "timeDay": 2108,
+    "timeWeek": 2021,
+    "timeMonth": 2021,
+    "timeYear": 2021,
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   }
 ]
