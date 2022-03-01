@@ -4,19 +4,19 @@
     "url": "https://www.angelalarcon.com/es/",
     "icon": "https://favicons.githubusercontent.com/www.angelalarcon.com",
     "slug": "angel-alarcon-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1254,
-    "timeDay": 1441,
-    "timeWeek": 1170,
-    "timeMonth": 1254,
-    "timeYear": 1254,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1264,
+    "timeDay": 1615,
+    "timeWeek": 1209,
+    "timeMonth": 1264,
+    "timeYear": 1264,
     "dailyMinutesDown": {
-      "2022-03-01": 1
+      "2022-03-01": 28
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.angelalarcon.com/marca/",
     "icon": "https://favicons.githubusercontent.com/www.angelalarcon.com",
     "slug": "angel-alarcon-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1680,
-    "timeDay": 1230,
-    "timeWeek": 1509,
-    "timeMonth": 1680,
-    "timeYear": 1680,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1796,
+    "timeDay": 4646,
+    "timeWeek": 1918,
+    "timeMonth": 1796,
+    "timeYear": 1796,
     "dailyMinutesDown": {
-      "2022-03-01": 0
+      "2022-03-01": 27
     }
   }
 ]
