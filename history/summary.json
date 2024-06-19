@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1528,
-    "timeDay": 1360,
-    "timeWeek": 1405,
-    "timeMonth": 1546,
+    "timeDay": 1271,
+    "timeWeek": 1418,
+    "timeMonth": 1544,
     "timeYear": 1511,
-    "dailyMinutesDown": {
-      "2023-06-20": 319
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ángel Alarcón Blog",
@@ -30,13 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1604,
-    "timeDay": 1469,
-    "timeWeek": 1519,
-    "timeMonth": 1516,
+    "time": 1600,
+    "timeDay": 1586,
+    "timeWeek": 1552,
+    "timeMonth": 1518,
     "timeYear": 1535,
-    "dailyMinutesDown": {
-      "2023-06-20": 319
-    }
+    "dailyMinutesDown": {}
   }
 ]
