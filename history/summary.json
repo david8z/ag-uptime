@@ -4,19 +4,19 @@
     "url": "https://www.angelalarcon.com/es/",
     "icon": "https://icons.duckduckgo.com/ip3/www.angelalarcon.com.ico",
     "slug": "angel-alarcon-site",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 1522,
-    "timeDay": 1191,
-    "timeWeek": 1318,
-    "timeMonth": 1444,
-    "timeYear": 1505,
+    "time": 1524,
+    "timeDay": 1627,
+    "timeWeek": 1450,
+    "timeMonth": 1477,
+    "timeYear": 1508,
     "dailyMinutesDown": {
-      "2024-07-04": 0
+      "2024-07-04": 25
     }
   },
   {
