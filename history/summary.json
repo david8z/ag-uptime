@@ -4,18 +4,20 @@
     "url": "https://www.angelalarcon.com/es/",
     "icon": "https://icons.duckduckgo.com/ip3/www.angelalarcon.com.ico",
     "slug": "angel-alarcon-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1523,
-    "timeDay": 1341,
-    "timeWeek": 1358,
-    "timeMonth": 1457,
-    "timeYear": 1506,
-    "dailyMinutesDown": {}
+    "time": 1522,
+    "timeDay": 1191,
+    "timeWeek": 1318,
+    "timeMonth": 1444,
+    "timeYear": 1505,
+    "dailyMinutesDown": {
+      "2024-07-04": 0
+    }
   },
   {
     "name": "Ángel Alarcón Blog",
