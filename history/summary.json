@@ -4,18 +4,19 @@
     "url": "https://www.angelalarcon.com/es/",
     "icon": "https://icons.duckduckgo.com/ip3/www.angelalarcon.com.ico",
     "slug": "angel-alarcon-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 1519,
+    "time": 1518,
     "timeDay": 1371,
     "timeWeek": 1635,
     "timeMonth": 1494,
     "timeYear": 1502,
     "dailyMinutesDown": {
+      "2024-07-27": 0,
       "2024-07-04": 25
     }
   },
