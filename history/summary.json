@@ -28,19 +28,19 @@
     "url": "https://www.angelalarcon.com/marca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.angelalarcon.com.ico",
     "slug": "angel-alarcon-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "65.24%",
-    "uptimeWeek": "95.03%",
-    "uptimeMonth": "98.86%",
+    "uptimeDay": "64.79%",
+    "uptimeWeek": "94.97%",
+    "uptimeMonth": "98.84%",
     "uptimeYear": "99.90%",
-    "time": 1594,
-    "timeDay": 6867,
-    "timeWeek": 3505,
-    "timeMonth": 1945,
-    "timeYear": 1605,
+    "time": 1598,
+    "timeDay": 6252,
+    "timeWeek": 3531,
+    "timeMonth": 1998,
+    "timeYear": 1610,
     "dailyMinutesDown": {
-      "2025-05-09": 501
+      "2025-05-09": 508
     }
   }
 ]
