@@ -4,19 +4,19 @@
     "url": "https://www.angelalarcon.com/es/",
     "icon": "https://icons.duckduckgo.com/ip3/www.angelalarcon.com.ico",
     "slug": "angel-alarcon-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "87.80%",
-    "uptimeWeek": "98.26%",
+    "uptimeDay": "87.69%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.94%",
-    "time": 1744,
+    "time": 1745,
     "timeDay": 3446,
     "timeWeek": 2586,
     "timeMonth": 2024,
     "timeYear": 1812,
     "dailyMinutesDown": {
-      "2025-05-09": 176,
+      "2025-05-09": 178,
       "2025-02-28": 34,
       "2024-09-13": 76,
       "2024-07-27": 27,
@@ -30,9 +30,9 @@
     "slug": "angel-alarcon-blog",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "86.05%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "85.44%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.96%",
     "time": 1594,
     "timeDay": 6867,
@@ -40,7 +40,7 @@
     "timeMonth": 1945,
     "timeYear": 1605,
     "dailyMinutesDown": {
-      "2025-05-09": 201
+      "2025-05-09": 210
     }
   }
 ]
